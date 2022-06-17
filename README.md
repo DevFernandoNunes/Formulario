@@ -8,6 +8,8 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
+- [Imagens](#imagens)
+
 - [Funcionalidades](#funcionalidades)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
@@ -27,6 +29,10 @@ O projeto conta com uma base sólida de HTML e CSS. Foi iniciado para realizar o
 ## Funcionalidades
 
 :heavy_check_mark: `Conceitos adquiridos 1:` Desenvolvimento de um formulário ultilizando as tecnologias HTML e CSS
+   
+ ## Imagens
+   
+   ![image](https://user-images.githubusercontent.com/95880342/174295203-e0c9b280-ecee-4101-a0f7-7db99036cd0d.png)
 
 ## Ferramentas utilizadas
  
